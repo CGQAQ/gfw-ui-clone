@@ -1,5 +1,8 @@
 # cfw-clone
 
+## Screencaptures
+![](screencaptures/qY9OTQalax.gif)
+
 ## Project setup
 ```
 yarn install
